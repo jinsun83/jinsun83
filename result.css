@@ -1,0 +1,47 @@
+#result{
+    display: none;
+    color: black;
+    background-color: whitesmoke;
+    margin-top: 50px;
+    height: 650px;
+    text-align:center;
+    border-radius: 20px;
+}
+
+
+.resultDesc{
+font-size: 22px;
+}
+
+.resultname{
+    font-size: 40px;
+}
+
+.infor{
+    font-size: 26.5px;
+}
+
+.restart{
+    color: whitesmoke;
+    background-color: rgb(96,108,136);
+    font-size: 20px;
+    border: 0px;
+    border: 20px;
+}
+
+.restart:hover, .restart:focus {
+    background-color: whitesmoke;
+    color: rgb(96,108,136);
+}
+
+.pt-5{
+    margin-top: -10px;
+}
+
+.img-fluid {
+    margin-top: -55px;
+}
+
+.resultDesc{
+    margin-top: -8px;
+}
